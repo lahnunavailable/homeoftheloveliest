@@ -30,7 +30,7 @@ nav {
 
 nav a {
   color: #a57c4c;
-  background: #fff6ea;
+  background: ##f7da8b;
   text-decoration: none;
   margin: 0 0.7em;
   padding: 0.3em 0.8em;
@@ -55,7 +55,7 @@ main {
 }
 
 .bubble {
-  background: #ffffffee;
+  background: ##d6c390;
   border-radius: 18px;
   box-shadow: 0 4px 18px rgba(160, 120, 80, 0.11);
   padding: 2.2em 2em;
@@ -85,7 +85,7 @@ main {
   color: #a57c4c; /* Soft brown */
   text-decoration: none;
   font-weight: 500;
-  background: #fff6ea;
+  background: #d6c390;
   padding: 0.1em 0.5em;
   border-radius: 6px;
   transition: background 0.2s, color 0.2s;
@@ -119,7 +119,7 @@ footer {
 }
 
 .channel-card {
-  background: #fffdf8;
+  background: ##d6c390;
   border-radius: 12px;
   box-shadow: 0 2px 8px rgba(80, 60, 20, 0.09);
   padding: 1em 1.5em;
